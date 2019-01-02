@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1529325573 source:d:\buet code bloacks project(fahmid)\myigraphics project slide text\textinputdemo.cpp
+	"iGraphics.h"
+
+1527345525 d:\buet code bloacks project(fahmid)\myigraphics project slide text\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1514140574 source:d:\buet code bloacks project(fahmid)\myigraphics project slide text\main.cpp
+	<iostream>
+
